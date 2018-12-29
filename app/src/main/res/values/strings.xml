@@ -1,0 +1,27 @@
+<resources>
+    <string name="bdg">বদরগঞ্জ, রংপুর </string>
+    <string name="coursse">Course Instructor</string>
+    <string name="gp">01762940480, 01883749418</string>
+    <string name="robi">01883749418</string>
+    <string name="tk">TK</string>
+    <string name="clear">Clear</string>
+    <string name="calculate">Calculate</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_discount">Product Discount</string>
+    <string name="jack">J@ck</string>
+    <string name="app_name">Discount Calculator</string>
+    <string name="net_price">Net Price:</string>
+    <string name="my_name">Zakaria Hossain Al-Hadi</string>
+    <string name="skill0">JAVA Programmer</string>
+    <string name="skill1"> Web and Android Developer</string>
+    <string name="motive">Learn HSC ICT with Hadi</string>
+    <string name="institute">ICT Learning Point</string>
+    <string name="featureHeading">বৈশিষ্ট্য সমুহঃ</string>
+    <string name="Feature">- একাদশ-দ্বাদশ শ্রেণির ICT  ব্যাচ আকারে পড়ানো হয়।\n\n
+    - প্রতিটি অধ্যায়ের মৌলিক বিষয়গুলো আগে করানো হয়।\n\n
+    - অধ্যায় শেষে সৃজনশীল প্রাকটিস করানো হয়।\n\n
+    - সবচেয়ে সহজ পদ্ধতিতে ডিজিটাল ডিভাইস অধ্যায় করানো হয়।\n\n
+    - ওয়েব ডিজাইন, সি প্রোগ্রামিং, ডাটাবেজ অধ্যায় প্রাকটিক্যালি করানো হয়।\n\n
+    - সি প্রোগ্রামিং অধ্যায় সর্বাধিক গুরুত্বের সাথে করানো হয়।\n\n
+    </string>
+</resources>
